@@ -1,0 +1,8 @@
+# Arcadia-Game
+This is the final project for my CSS225 Class
+
+This technical documentation is for the game called Arcadia. Arcadia is a fantasy text base game; this game follows Nyx the main character on her journey to free her kingdom that is cover with a parchment dome.This technical documentation is for the game called Arcadia. Arcadia is a fantasy text base game; this game follows Nyx the main character on her journey to free her kingdom that is cover with a parchment dome.
+
+The code for the game Arcadia is hosted(non-zipped) on GitHub. In which contains a total of six files that are needed to run the game. The game is coded in Python through modules. You will need to download python to your device in order to run the game. 
+
+The first module is call Main which holds imported modules of the game. This holds the modules and helps it connect so they could run in a specific sequence. Although the file that must be run first is the Intro file in which then the game will run. After the Intro is scene2 in which where the user has more of an interaction with the game. Most of the modules contain if statements, elif, and while loops. Since the game is text base there is not many math functions used, therefore it is a very simplistic game. In each module there are notes that will say specifically what each part does. 
